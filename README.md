@@ -3,6 +3,9 @@
 713 Community is a online community board for Houston. Users can see what local events are happening, and RSVP to them.  
 Users can also submit events to the board.
 
+## Credits  
+Home Header Photo by [Kevin Hernandez](https://unsplash.com/@kevinhernandez?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash] (https://unsplash.com/s/photos/houston?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
+
 ## Available Scripts
 
 In the project directory, you can run:
